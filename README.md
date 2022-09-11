@@ -15,7 +15,6 @@ We worked on the Egyptian currencies to do the following:
   * 100-pounds
   * 200-pounds
  
-![image](https://user-images.githubusercontent.com/111139674/189540055-782affde-d330-4aa3-8de7-1fe074c544ce.png)
 
 2- Help the blind calculate their net amount of money they have.
 
